@@ -1,0 +1,11 @@
+COMP30023 Computer Systems 2019
+Project 1 - Image Tagger
+Demo program
+
+Authored by:
+	Tinson Lai
+	Steven Tang
+
+Instructions:
+	make
+	./image_tagger ip port
